@@ -17,11 +17,11 @@ Lecture/Lab: 9AM - 5PM CST
 
 | Day    | Room            | Date      | Topic                                                   | Homework                                   |
 |--------|-----------------|-----------|---------------------------------------------------------|--------------------------------------------|
-| Day 01 | Seigle Hall ### | Mon. 8/18 | Git, Data Structure & Syntax, Namespace and Classes     | HW1 assigned                               |
-| Day 02 | Seigle Hall ### | Tue. 8/19 | Errors and Exceptions, Web Scraping                     | HW2 assigned                               |
-| Day 03 | Seigle Hall ### | Wed. 8/20 | Regular Expressions, APIs                               | HW3 assigned                               |
-| Day 04 | Seigle Hall ### | Thu. 8/21 | SQL and Database, Recursion and Sorting                 | Department Orientation, No HW              |
-| Day 05 | Seigle Hall ### | Fri. 8/22 | More on Data Structure                                  | HW4 assigned                               |
+| Day 01 | Seigle Hall 207 | Mon. 8/18 | Git, Data Structure & Syntax, Namespace and Classes     | HW1 assigned                               |
+| Day 02 | Seigle Hall 305 | Tue. 8/19 | Errors and Exceptions, Web Scraping                     | HW2 assigned                               |
+| Day 03 | Seigle Hall 207 | Wed. 8/20 | Regular Expressions, APIs                               | HW3 assigned                               |
+| Day 04 | Seigle Hall 272 | Thu. 8/21 | SQL and Database, Recursion and Sorting                 | Department Orientation, No HW              |
+| Day 05 | Seigle Hall 207 | Fri. 8/22 | More on Data Structure                                  | HW4 assigned                               |
 
 ### Homework: 
 - There will be 4 homework assignments.
